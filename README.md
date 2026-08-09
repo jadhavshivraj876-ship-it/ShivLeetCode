@@ -6,27 +6,33 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -64,4 +70,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
