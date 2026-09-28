@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
@@ -47,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -72,6 +74,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
