@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
@@ -81,6 +83,7 @@
 | [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -106,4 +109,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
