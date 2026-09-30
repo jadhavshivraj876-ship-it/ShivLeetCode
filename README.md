@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
