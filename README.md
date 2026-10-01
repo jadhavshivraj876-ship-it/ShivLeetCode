@@ -127,4 +127,16 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
