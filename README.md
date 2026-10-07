@@ -134,6 +134,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +143,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
