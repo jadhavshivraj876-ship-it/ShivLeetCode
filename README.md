@@ -13,6 +13,7 @@
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Nim Game
 |  |
 | ------- |
