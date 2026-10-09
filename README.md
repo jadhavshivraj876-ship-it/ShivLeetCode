@@ -68,6 +68,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -136,14 +137,17 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
