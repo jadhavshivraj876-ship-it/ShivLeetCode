@@ -15,6 +15,7 @@
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -53,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@
 | [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
