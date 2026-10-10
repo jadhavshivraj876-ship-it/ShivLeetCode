@@ -14,6 +14,7 @@
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
@@ -63,6 +64,7 @@
 | [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
@@ -70,11 +72,13 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -169,4 +173,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
