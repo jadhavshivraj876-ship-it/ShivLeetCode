@@ -54,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -153,6 +155,7 @@
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
