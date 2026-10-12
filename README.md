@@ -54,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
@@ -99,6 +100,7 @@
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -142,6 +144,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -150,6 +153,7 @@
 | [0020-valid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
