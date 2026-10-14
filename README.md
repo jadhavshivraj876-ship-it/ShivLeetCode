@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0704-binary-search) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
