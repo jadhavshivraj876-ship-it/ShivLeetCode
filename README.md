@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
@@ -80,6 +81,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0704-binary-search) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -196,4 +198,9 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
