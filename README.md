@@ -126,6 +126,7 @@
 | [0141-linked-list-cycle](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -249,6 +250,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
