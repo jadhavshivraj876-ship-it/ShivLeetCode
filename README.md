@@ -240,4 +240,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
