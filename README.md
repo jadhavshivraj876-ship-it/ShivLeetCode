@@ -28,6 +28,7 @@
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
