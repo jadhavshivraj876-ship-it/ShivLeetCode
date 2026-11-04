@@ -26,6 +26,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -36,6 +37,7 @@
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
@@ -45,6 +47,7 @@
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Minimax
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -177,6 +181,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0904-fruit-into-baskets) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -213,6 +218,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
