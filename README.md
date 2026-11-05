@@ -19,6 +19,7 @@
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -87,6 +88,7 @@
 | [0075-sort-colors](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0088-merge-sorted-array) |
 | [1340-jump-game-v](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2784-check-if-array-is-good) |
 | [3169-count-days-without-meetings](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3169-count-days-without-meetings) |
@@ -102,6 +104,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
@@ -136,6 +139,7 @@
 | [0567-permutation-in-string](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadhavshivraj876-ship-it/ShivLeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sweep Line
 |  |
 | ------- |
